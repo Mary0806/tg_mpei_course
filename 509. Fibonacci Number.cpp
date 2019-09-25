@@ -1,4 +1,4 @@
-//https://leetcode.com/problems/fibonacci-number/submissions/
+//https://leetcode.com/problems/fibonacci-number/
 //я дичайше извиняюсь за ЭТО
 class Solution {
 public:
